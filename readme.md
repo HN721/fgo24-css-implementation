@@ -1,6 +1,6 @@
-# HISTORY
+# Snapsound
 
-This repository creates a Home Page Soundbar Using html css feature
+This repository creates a Home Page SnapSound Using html css feature
 
 ## Preview
 
